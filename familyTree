@@ -92,7 +92,7 @@ var generation3 = [
     {
       name: 'Meghan',
       parents: ["N/A"],
-      childOf: function () {
+      childOf: function () { uyfyg
         return this.parents;
       },
     },
